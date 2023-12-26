@@ -68,3 +68,7 @@ This source code was developed by following the tutorial of the official Django 
 - Installing Django Debug Toolbar
 - Installing other third-party packages
 
+
+## Reference
+https://docs.djangoproject.com/en/5.0/intro/tutorial01/
+
